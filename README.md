@@ -13,7 +13,6 @@
 
 ## Useful links:
 
-+ [Разработка приложений на Flutter](https://evrone.ru/services/flutter)
 + [Разработка на Flutter](https://surf.ru/flutter/)
 + [Уроки Flutter и Dart с нуля](https://www.youtube.com/watch?v=YPRaA6KhyXc)
 + [Flutter уроки](https://flutter.su/)
